@@ -75,7 +75,7 @@ Contributions to this project are welcome. If you would like to contribute, plea
 1. Fork this repository.
 2. Create a branch with a descriptive name for your change.
 3. Make your changes to the created branch.
-4. Submit a pull request to the master branch of this repository.
+4. Submit a pull request to the main branch of this repository.
 
 ## Contact
 
